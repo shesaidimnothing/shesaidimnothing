@@ -50,7 +50,7 @@ I am Hugo Pottier, currently in school learning how to be a front-end developper
 <b>Let's collaborate together !</b>
 <br/>
 <div>
-    <a href="https://www.linkedin.com/in/celian-lebacle/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.linkedin.com/in/hugo-pottier-707326263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="40" style="max-width: 100%;"></a>
 </div>
 <!--
 **celianlb/celianlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
