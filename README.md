@@ -7,7 +7,7 @@ I am Hugo Pottier, currently in school learning how to be a front-end developper
 <b>🤍My favorite technologies🤍</b>
 <br/>
 <div>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="docker" height="40"  style="max-width: 100%;"> 
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="docker" height="40"  style="max-width: 100%;"> 
     <img src="https://img.shields.io/badge/SASS-grey?style=for-the-badge&logo=sass" alt="docker" height="40"  style="max-width: 100%;"> 
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="40" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="40" style="max-width: 100%;"> </a>
