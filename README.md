@@ -38,7 +38,7 @@ I am Hugo Pottier, currently in school learning how to be a front-end developper
 <b>👨‍💻And im actually working on👨‍💻</b>
 <br/>
 <div>
-    <a href="https://www.swift.com/"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
+    <a href="https://developer.apple.com/swift//"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
     <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" height="40" style="max-width: 100%;">
     <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="vuejs" height="40" style="max-width: 100%;">
 </div>
