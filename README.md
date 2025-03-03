@@ -15,12 +15,11 @@ I am Hugo Pottier, currently in school learning how to be a front-end developper
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" height="40" style="max-width: 100%;"> 
     <a href="https://angularjs.org/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" height="40" style="max-width: 100%;">
     <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vitejs" height="40" style="max-width: 100%;"> 
-    <a href="[https://www.typescriptlang.org/](https://nodejs.org/en)"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="40" style="max-width: 100%;">
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40" style="max-width: 100%;"> 
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="40" style="max-width: 100%;"> 
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40" style="max-width: 100%;">
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="mysql" height="40" style="max-width: 100%;">
+    <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="40" style="max-width: 100%;">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="40" style="max-width: 100%;"> 
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40" style="max-width: 100%;">
+    <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="mysql" height="40" style="max-width: 100%;">
 </div>
 
 <br/>
@@ -29,8 +28,8 @@ I am Hugo Pottier, currently in school learning how to be a front-end developper
 <b>👨‍🎨My favorite tools to create👨‍🎨</b>
 <br/>
 <div>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="40" style="max-width: 100%;">
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
+    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" height="40" style="max-width: 100%;">
 </div>
 
 <br/>
@@ -39,9 +38,9 @@ I am Hugo Pottier, currently in school learning how to be a front-end developper
 <b>👨‍💻And im actually working on👨‍💻</b>
 <br/>
 <div>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" height="40" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="vuejs" height="40" style="max-width: 100%;">
+    <a href="https://www.swift.com/"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="figma" height="40" style="max-width: 100%;">
+    <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs" height="40" style="max-width: 100%;">
+    <a href="https://threejs.org/"><img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="vuejs" height="40" style="max-width: 100%;">
 </div>
 
 <br/>
